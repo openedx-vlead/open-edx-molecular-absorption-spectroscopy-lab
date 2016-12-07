@@ -1,11 +1,19 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
+        "course_image": "molecular-absorption-spectroscopy.png", 
         "discussion_topics": {
             "General": {
                 "id": "i4x-IIITH-mas-course-mas"
             }
         }, 
-        "display_name": "Molecular Absorption Spectroscopy lab", 
+        "display_name": "Molecular Absorption Spectroscopy", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "start": "2016-09-30T00:00:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -34,8 +42,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/mas.xml", 
-                "course/mas.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }

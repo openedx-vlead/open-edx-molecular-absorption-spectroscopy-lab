@@ -1,4 +1,4 @@
-<course display_name="Molecular Absorption Spectroscopy lab">
+<course advertised_start="Anytime" course_image="molecular-absorption-spectroscopy.png" display_name="Molecular Absorption Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="_Familiarization_with_the_UV-Visible_Absorption_Spectroscopy"/>
   <chapter url_name="__Solvent_effects_on_absorption_spectra__"/>
@@ -10,5 +10,6 @@
   <chapter url_name="_Simultaneous_estimation_method_for_multicomponent_samples-_Principle_of_additivity_of_absorbance_"/>
   <chapter url_name="__pH_effects_on_absorption_spectra-_pKa_determination_by_spectrophotometric_method__"/>
   <chapter url_name="_Study_of_kinetics_of_a_reaction_by_using_spectrophotometric_method_"/>
+  <chapter url_name="8531c0875dd2412db03cea95086a628b"/>
   <wiki slug="IIIT-Hyderabad.CCNSB01.Anytime"/>
 </course>
