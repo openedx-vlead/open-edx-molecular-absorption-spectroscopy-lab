@@ -1,10 +1,10 @@
 {
     "course/course": {
         "advertised_start": "Anytime", 
-        "course_image": "molecular-absorption-spectroscopy.png", 
+        "course_image": "Molecular Absorption Spectroscopy.png", 
         "discussion_topics": {
             "General": {
-                "id": "i4x-IIITH-mas-course-mas"
+                "id": "i4x-IIITH-ccnsb03-course-ccnsb03"
             }
         }, 
         "display_name": "Molecular Absorption Spectroscopy", 
